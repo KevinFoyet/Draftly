@@ -1,2 +1,0 @@
-openai_api_key = "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"
-google_gemini_api_key = "AIzaSyBy2OU1nudE2_sAqo5Cb64cWc4IxtEhSPc"
