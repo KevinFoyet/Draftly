@@ -38,7 +38,7 @@ model = genai.GenerativeModel(
 )
 
 # Set app logo
-logo_path = r"C:\Users\Kevin\OneDrive - Cal Poly Pomona\Documents\Personal Projects\AI Blogging Assistant\Draftly Logo.webp"  # Replace with the correct path
+logo_path = r"https://raw.githubusercontent.com/KevinFoyet/Draftly/refs/heads/main/Draftly%20Logo.webp"  # Replace with the correct path
 
 # Center the logo using columns
 col1, col2, col3 = st.columns([1, 2, 1])  # Adjust column widths as needed
