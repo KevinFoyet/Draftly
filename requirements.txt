@@ -2,4 +2,4 @@ streamlit
 google.generativeai
 openai
 streamlit_carousel
-dotenv
+python-dotenv
